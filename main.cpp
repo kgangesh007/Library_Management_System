@@ -7,7 +7,7 @@
 #define HOST "127.0.0.1"
 #define USER "root"
 #define PASS "" // Define your MySQL password here
-#define DATABASE "Management"
+#define DATABASE ""
 #define PORT 3306
 
 using namespace std;
