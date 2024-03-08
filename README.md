@@ -14,7 +14,7 @@ Before running this program, ensure you have the following installed:
 
 1. Clone this repository to your local machine using `git clone`.
 2. Navigate to the project directory.
-3. Compile the program using your C++ compiler. For example:
+3. Compile the program using your C++ compiler.
  
 ## Usage
 
