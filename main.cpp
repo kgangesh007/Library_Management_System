@@ -190,7 +190,6 @@ void books::update()
             mysql_free_result(res_set);
         }
     }
-
     // Clear input buffer
     cin.ignore(numeric_limits<streamsize>::max(), '\n');
 }
